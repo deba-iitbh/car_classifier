@@ -8,6 +8,7 @@ But we were unable to cross 90% accuracy with the training data, as the target d
 After SMOTE, the number of data-points have increased, but the baseline was performing poorly due to the synthetic data. Thus we applied Ensemble models and seen an increase in accuracy.
 
 ## Results
+
 |                |No. of Datapoints |Bad Deal Percentage | Train Accuracy | Test Accuracy|
 | -------------- | -----------------| -------------------|----------------|--------------|
 |SVC                         |1554.0              |0.07722        |0.997426     |0.896552|
