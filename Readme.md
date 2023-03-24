@@ -9,11 +9,11 @@ After SMOTE, the number of data-points have increased, but the baseline was perf
 
 ## Results
 
-|                |No. of Datapoints |Bad Deal Percentage | Train Accuracy | Test Accuracy|
-| -------------- | -----------------| -------------------|----------------|--------------|
-|SVC                         |1554.0              |0.07722        |0.997426     |0.896552|
-|SVC (SMOT)                  |2868.0              |0.50000        |0.996513     |0.879310|
-|Ensemble (SMOT)             |2868.0              |0.50000        |1.000000     |0.954023|
+|                | No. of Datapoints | Bad Deal Percentage | Train Accuracy | Test Accuracy |
+| -------------- | ----------------- | ------------------- |---------------- |-------------- |
+| SVC                         | 1554.0              | 0.07722        | 0.997426     | 0.896552 |
+| SVC (SMOT)                  | 2868.0              | 0.50000        | 0.996513     | 0.879310 |
+| Ensemble (SMOT)             | 2868.0              | 0.50000        | 1.000000     | 0.954023 |
 
 
 ## Other Contributers:
